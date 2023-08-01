@@ -1,0 +1,1 @@
+# celeb-img-class
